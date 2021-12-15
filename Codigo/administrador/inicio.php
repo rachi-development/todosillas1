@@ -8,7 +8,7 @@
                     <hr class="my-2">
                     <p class="lead">
                         <a class="btn btn-primary btn-lg" href="<?php echo $url;?>/administrador/seccion/productos.php"" role="button">Administración de productos</a>
-                        <a class="btn btn-warning btn-lg" href="<?php echo $url;?>/administrador/multi_login/admin/home.php"" role="button">Administración de usuarios</a>
+                        <a class="btn btn-warning btn-lg" href="<?php echo $url;?>/administrador/login/admin/admin_portada.php" role="button">Administración de usuarios</a>
                     </p>
                 </div>   
             </div>

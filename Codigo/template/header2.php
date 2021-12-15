@@ -62,8 +62,7 @@
 						    <ul class="nav" id="nav">
 						    	<li><a href="productos.php">Productos</a></li>
 						    	<li><a href="nosotros.php">Nosotros</a></li>
-						    	<li><a href="experiance.html">Events</a></li>
-								<li><a name="" id="" class="btn btn-primary" href="../codigo/administrador/multi_login/login.php" role="button">LOGIN</a></li>								
+								<li><a name="" id="" class="btn btn-primary" href="../codigo/consejos.php" role="button">CONSEJOS PARA TU COLUMNA</a></li>								
 								<div class="clear"></div>
 							</ul>
 							<script type="text/javascript" src="js/responsive-nav.js"></script>
@@ -73,9 +72,8 @@
 	            <div class="header_right">
 	    		  <!-- Empieza el Login y registro-->
 				    <div class="search-box">
-					  <a name="" id="" class="btn btn-primary" href="../codigo/administrador/multi_login/login.php" role="button">LOGIN</a>
+					<a href="../administrador/login/cerrar_sesion.php"><button class="btn btn-danger text-left"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Cerrar Sesion</button></a>
 					</div>
-						<a name="" id="" class="btn btn-success" href="../codigo/administrador/multi_login/registera .php" role="button">REGISTRO</a>
 		           <div class="clear"></div>
 	       </div>
 	      </div>

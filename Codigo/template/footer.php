@@ -3,33 +3,24 @@
 				<div class="row">
 					<div class="col-md-3">
 						<ul class="footer_box">
-							<h4>Products</h4>
-							<li><a href="#">Mens</a></li>
-							<li><a href="#">Womens</a></li>
-							<li><a href="#">Youth</a></li>
+							<h4>¿Te interesa algún producto?</h4>
+							<h4>Llamanos o escribenos a whatsapp al : +34 671009231 </h4>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="footer_box">
-							<h4>About</h4>
-							<li><a href="#">¿Quienes somos?</a></li>
+							<h4>Nosotros</h4>
+							<li><a href="nosotros.php">¿Quienes somos?</a></li>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="footer_box">
-							<h4>Customer Support</h4>
-							<li><a href="#">Contact Us</a></li>
+							<h4>Servicio al cliente</h4>
+							<h4>+34 671009231</h4>
 						</ul>
 					</div>
 					<div class="col-md-3">
 						<ul class="footer_box">
-							<h4>Newsletter</h4>
-							<div class="footer_search">
-				    		   <form>
-				    			<input type="text" value="Enter your email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter your email';}">
-				    			<input type="submit" value="Go">
-				    		   </form>
-					        </div>
 							<ul class="social">	
 							  <li class="facebook"><a href="#"><span> </span></a></li>
 							  <li class="twitter"><a href="#"><span> </span></a></li>

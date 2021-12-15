@@ -16,10 +16,10 @@
         <div class="nav navbar-nav">
             <a class="nav-item nav-link active" href="#">ADMINISTRADOR <span class="sr-only">(current)</span></a>
             <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/inicio.php">Inicio</a>
-            <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/seccion/productos.php">Administrar Productos</a>
-            <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/multi_login/admin/home.php">Administrar Usuarios</a>
-            <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/seccion/cerrar.php">Cerrar Sesión</a>
+            <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/login/admin/admin_portada.php">Gestión de Usuarios</a>
+            <a class="nav-item nav-link" href="<?php echo $url;?>/administrador/seccion/productos.php">Gestión de Productos</a>
             <a class="nav-item nav-link" href="<?php echo $url;?>">Ver TODOSILLAS</a>
+            <a href="../login/cerrar_sesion.php"><button class="btn btn-danger text-left"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span> Cerrar Sesion</button></a>
         </div>
     </nav>
     <div class="container">

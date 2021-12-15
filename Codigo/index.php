@@ -6,26 +6,26 @@
          <div class="slider_container">
             <div class="slide"> 
                 <!-- Slide image -->
-               <img src="images/slider1.jpg" class="img-responsive" alt=""/>
+               <img src="images/silla1.jpg" class="img-responsive" alt=""/>
                 <!-- /Slide image -->
                 <!-- Texts container -->
                 <div class="slide_content">
                     <div class="slide_content_wrap">
                         <!-- Text title -->
-                        <h1 class="title">Run Over<br>Everything</h1>
+                        <h1 class="title">Cuida<br>tu espalda</h1>
                         <!-- /Text title -->
-                        <div class="button"><a href="#">See Details</a></div>
+                        <div class="button"><a href="productos.php">Ver productos</a></div>
                     </div>
                 </div>
                <!-- /Texts container -->
             </div>
             <!-- /Duplicate to create more slides -->
             <div class="slide">
-               <img src="images/slider2.jpg" class="img-responsive" alt=""/>
+               <img src="images/silla3.png" class="img-responsive" alt=""/>
                 <div class="slide_content">
                     <div class="slide_content_wrap">
-                        <h1 class="title">Run Over<br>Everything</h1>
-                       	<div class="button"><a href="#">See Details</a></div>
+                        <h1 class="title">CUIDA<br>TU ESPALDA</h1>
+                       	<div class="button"><a href="productos.php">Ver productos</a></div>
                     </div>
                 </div>
             </div>
@@ -39,17 +39,17 @@
       </div>
 	  <div class="main">
 		<div class="content-top">
-			<h2>snowboards</h2>
-			<p>hendrerit in vulputate velit esse molestie consequat, vel illum dolore</p>
+			<h2>Sillas ergonómicas</h2>
+			<p>Una buena silla de oficina ha de ser ergonómica, lo que quiere decir que se adapta completamente a tu cuerpo</p>
 			<div class="close_but"><i class="close1"> </i></div>
 				<ul id="flexiselDemo3">
-				<li><img src="images/board1.jpg" /></li>
-				<li><img src="images/board2.jpg" /></li>
-				<li><img src="images/board3.jpg" /></li>
-				<li><img src="images/board4.jpg" /></li>
-				<li><img src="images/board5.jpg" /></li>
+				<li><img src="images/silla7.png" /></li>
+				<li><img src="images/silla10.png" /></li>
+				<li><img src="images/silla5.png" /></li>
+				<li><img src="images/silla8.png" /></li>
+				<li><img src="images/silla9.png" /></li>
 			</ul>
-		<h3>SnowBoard Extreme Series</h3>
+		<h3>Mejores sillas ergonómicas</h3>
 			<script type="text/javascript">
 		$(window).load(function() {
 			$("#flexiselDemo3").flexisel({
@@ -78,17 +78,6 @@
 		});
 		</script>
 		<script type="text/javascript" src="js/jquery.flexisel.js"></script>
-		</div>
-	</div>
-	<div class="content-bottom">
-		<div class="container">
-			<div class="row content_bottom-text">
-			  <div class="col-md-7">
-				<h3>The Mountains<br>Snowboarding</h3>
-				<p class="m_1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio.</p>
-				<p class="m_2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio.</p>
-			  </div>
-			</div>
 		</div>
 	</div>
 

@@ -62,9 +62,7 @@
 						  <a class="toggleMenu" href="#"><img src="images/nav.png" alt="" /></a>
 						    <ul class="nav" id="nav">
 						    	<li><a href="productos.php">Productos</a></li>
-						    	<li><a href="nosotros.php">Nosotros</a></li>
-						    	<li><a href="experiance.html">Events</a></li>
-								<li><a name="" id="" class="btn btn-primary" href="../codigo/administrador/login-main/index.html" role="button">LOGIN</a></li>								
+						    	<li><a href="nosotros.php">Nosotros</a></li>							
 								<div class="clear"></div>
 							</ul>
 							<script type="text/javascript" src="js/responsive-nav.js"></script>
@@ -74,9 +72,9 @@
 	            <div class="header_right">
 	    		  <!-- Empieza el Login y registro-->
 				    <div class="search-box">
-					  <a name="" id="" class="btn btn-primary" href="../codigo/administrador/multi_login/login.php" role="button">LOGIN</a>
+					  <a name="" id="" class="btn btn-primary" href="../codigo/administrador/login/index.php" role="button">LOGIN</a>
 					</div>
-						<a name="" id="" class="btn btn-success" href="../codigo/administrador/multi_login/register.php" role="button">REGISTRO</a>
+						<a name="" id="" class="btn btn-success" href="../codigo/administrador/login/registro.php" role="button">REGISTRO</a>
 		           <div class="clear"></div>
 	       </div>
 	      </div>

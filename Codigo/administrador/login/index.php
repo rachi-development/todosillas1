@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=2.0">
-<title>Multiusuarios PHP MySQL: Niveles de Usuarios</title>
+<title>INICIAR SESIÓN</title>
 		
 <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 <script src="js/jquery-1.12.4-jquery.min.js"></script>
@@ -47,7 +47,7 @@ if(isset($_SESSION["personal_login"]))	//Condicion personal
 }
 if(isset($_SESSION["usuarios_login"]))	//Condicion Usuarios
 {
-	header("location: usuarios/usuarios_portada.php");
+	header("location: ../../index2.php");
 }
 
 if(isset($_REQUEST['btn_login']))	
@@ -106,7 +106,7 @@ if(isset($_REQUEST['btn_login']))
 							case "usuarios":
 								$_SESSION["usuarios_login"]=$email;				
 								$loginMsg="Usuario: Inicio sesión con éxito";	
-								header("refresh:3;usuarios/usuarios_portada.php");		
+								header("refresh:3;../../index2.php");		
 								break;
 								
 							default:
@@ -138,7 +138,6 @@ if(isset($_REQUEST['btn_login']))
 		$errorMsg[]="correo electrónico o contraseña o rol incorrectos";
 	}
 }
-include("header.php");
 ?>
 
 	
@@ -169,6 +168,8 @@ include("header.php");
         <?php
 		}
 		?> 
+
+<?php include("header.php"); ?>
 
 
 <div class="login-form">
