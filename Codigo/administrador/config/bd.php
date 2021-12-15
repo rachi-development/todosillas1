@@ -1,8 +1,8 @@
 <?php
-$host="localhost";
+$host="127.0.0.1:3306";
 $bd="todosillas";
-$usuario="root";
-$contrasenia="";
+$usuario="debianDB";
+$contrasenia="debianDB";
 
 
 // Creamos la conexión y capturamos errores si lo hubieran

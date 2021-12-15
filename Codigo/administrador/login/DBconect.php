@@ -1,7 +1,7 @@
 <?php
-$db_host="localhost"; //localhost server 
-$db_user="root";	//database username
-$db_password="";	//database password   
+$db_host="127.0.0.1:3306"; //localhost server 
+$db_user="debianDB";	//database username
+$db_password="debianDB";	//database password   
 $db_name="todosillas";	//database name
 
 try
