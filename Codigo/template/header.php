@@ -72,9 +72,9 @@
 	            <div class="header_right">
 	    		  <!-- Empieza el Login y registro-->
 				    <div class="search-box">
-					  <a name="" id="" class="btn btn-primary" href="../codigo/administrador/login/index.php" role="button">LOGIN</a>
+					  <a name="" id="" class="btn btn-primary" href="../Codigo/administrador/login/index.php" role="button">LOGIN</a>
 					</div>
-						<a name="" id="" class="btn btn-success" href="../codigo/administrador/login/registro.php" role="button">REGISTRO</a>
+						<a name="" id="" class="btn btn-success" href="../Codigo/administrador/login/registro.php" role="button">REGISTRO</a>
 		           <div class="clear"></div>
 	       </div>
 	      </div>
